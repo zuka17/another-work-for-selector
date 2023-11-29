@@ -1,0 +1,35 @@
+h2 {
+    color: purple
+}
+
+body {
+    color: #bdc3c7;
+}
+
+.h1 {
+    color: #9b59b6;
+}
+
+li {
+    color: blue;
+}
+
+p {
+    color: yellow;
+}
+
+input {
+    border: 3px solid black;
+}
+.hello{
+    background-color: white;
+}
+div ~ p {
+    font-size: 25px
+}
+#special {
+    background-color: blue;
+}
+#text{
+background-color: black;
+}
